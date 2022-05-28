@@ -1,0 +1,31 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "apellido_paterno": "Portuguez",
+      "apellido_materno": "Hernandez",
+      "nombre": "Karina",
+      "username": "KarynaPH",
+      "email": "kary@dev.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "apellido_paterno": "Saenz",
+      "apellido_materno": "Ayllon",
+      "nombre": "Lisset",
+      "username": "Astrid",
+      "email": "lissetS@dev.com",
+      "password": "01cfcd4f6b8770febfb40cb906715822"
+    },
+    {
+      "id": 3,
+      "apellido_paterno": "Test",
+      "apellido_materno": "Demo",
+      "nombre": "Sistemas",
+      "username": "Astrid",
+      "email": "demosistemas@yopmail.com",
+      "password": "9e99b2d268ecd404124d1ac378a93c5a"
+    }
+  ]
+}
