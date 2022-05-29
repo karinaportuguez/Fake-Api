@@ -11,19 +11,10 @@
     },
     {
       "id": 2,
-      "apellido_paterno": "Saenz",
-      "apellido_materno": "Ayllon",
-      "nombre": "Lisset",
-      "username": "Astrid",
-      "email": "lissetS@dev.com",
-      "password": "01cfcd4f6b8770febfb40cb906715822"
-    },
-    {
-      "id": 3,
-      "apellido_paterno": "Test",
-      "apellido_materno": "Demo",
-      "nombre": "Sistemas",
-      "username": "Astrid",
+      "apellido_paterno": "Sánchez",
+      "apellido_materno": "Puebla",
+      "nombre": "Roberto de Jesus",
+      "username": "Prueba",
       "email": "demosistemas@yopmail.com",
       "password": "9e99b2d268ecd404124d1ac378a93c5a"
     }
